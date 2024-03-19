@@ -11,6 +11,7 @@
 | Node centrality and ranking on networks              | [**Lecture 4**](../assets/lectures/winter_2024_hse_savn/SAVN_lecture_4.pdf) |                                                                                                       |                   |
 | Motifs, Graphlets, Structural similarity             | [**Lecture 5**](../assets/lectures/winter_2024_hse_savn/SAVN_lecture_5.pdf) |                                                                                                       |                   |
 | Community detection                                  | [**Lecture 6**](../assets/lectures/winter_2024_hse_savn/SAVN_lecture_6.pdf) | [assignment_2.ipynb](https://github.com/ohmygraphs/SAVN_2024_winter_HSE/blob/main/assignment_2.ipynb) | 12.03 (23:59 MSK) |
+| Graph Embeddings                                     | [**Lecture 7**](../assets/lectures/winter_2024_hse_savn/SAVN_lecture_7.pdf) | [assignment_3.ipynb](https://github.com/ohmygraphs/SAVN_2024_winter_HSE/blob/main/assignment_3.ipynb) | 19.03 (23:59 MSK) |
 
 
 ## Team
